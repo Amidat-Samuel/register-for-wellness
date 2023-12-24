@@ -8,3 +8,4 @@ function showPass() {
 
     pass_field.type = "password";
 }
+
